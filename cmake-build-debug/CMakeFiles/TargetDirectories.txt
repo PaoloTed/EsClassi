@@ -1,0 +1,3 @@
+C:/Users/Paolo Tedesco/OneDrive - Assa Abloy Inc/Desktop/Universita/Secondo Anno/LASD/EsClassi/cmake-build-debug/CMakeFiles/EsClassi.dir
+C:/Users/Paolo Tedesco/OneDrive - Assa Abloy Inc/Desktop/Universita/Secondo Anno/LASD/EsClassi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paolo Tedesco/OneDrive - Assa Abloy Inc/Desktop/Universita/Secondo Anno/LASD/EsClassi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
