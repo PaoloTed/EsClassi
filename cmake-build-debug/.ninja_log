@@ -1,7 +1,5 @@
 # ninja log v5
-0	308	7332689663691586	CMakeFiles/EsClassi.dir/main.cpp.obj	48141ed98318d191
-309	435	7332689664951583	EsClassi.exe	6a5cb69c2067aac7
-2	281	7332689894633253	CMakeFiles/EsClassi.dir/main.cpp.obj	48141ed98318d191
-282	358	7332689895378250	EsClassi.exe	6a5cb69c2067aac7
 2	284	7332691841173060	CMakeFiles/EsClassi.dir/main.cpp.obj	48141ed98318d191
 284	367	7332691841998054	EsClassi.exe	6a5cb69c2067aac7
+8	457	7332699339679597	CMakeFiles/EsClassi.dir/EsClassi/main.cpp.obj	300c861b31594080
+2	458	7332699339694601	CMakeFiles/EsClassi.dir/main.cpp.obj	48141ed98318d191
